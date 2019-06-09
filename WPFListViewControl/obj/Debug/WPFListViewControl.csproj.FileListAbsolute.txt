@@ -1,0 +1,12 @@
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\bin\Debug\WPFListViewControl.dll
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\bin\Debug\WPFListViewControl.pdb
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl.csprojAssemblyReference.cache
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\CustomListView.g.cs
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl_MarkupCompile.cache
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl_MarkupCompile.lref
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\CustomListView.baml
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl.g.resources
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl.dll
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\WPFListViewControl.pdb
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WPFListViewControl\obj\Debug\GeneratedInternalTypeHelper.g.cs

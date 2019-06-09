@@ -1,0 +1,13 @@
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\bin\Debug\WPFListViewControl.dll
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\bin\Debug\WPFListViewControl.pdb
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\sifhameed\source\repos\WPFControlInWinforms\WinFormsApp\obj\Debug\WinFormsApp.Form1.resources
